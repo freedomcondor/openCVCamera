@@ -1,0 +1,3 @@
+/home/harry/OpenCVCamera/showCamera/build/CMakeFiles/edit_cache.dir
+/home/harry/OpenCVCamera/showCamera/build/CMakeFiles/rebuild_cache.dir
+/home/harry/OpenCVCamera/showCamera/build/CMakeFiles/camera.dir
